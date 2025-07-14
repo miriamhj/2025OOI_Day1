@@ -1,2 +1,8 @@
-# 2025OOI_Day1
+# 2025OOI\_Day1
+
 day 1 create new repo exercise
+
+
+
+hi
+
